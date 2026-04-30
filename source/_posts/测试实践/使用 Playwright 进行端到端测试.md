@@ -1,6 +1,8 @@
 ---
 title: 使用 Playwright 进行端到端测试
 date: 2026-04-30 10:30:00
+cover: /images/cover-playwright.jpg
+top_img: /images/banner-post.jpg
 categories:
   - 测试实践
 tags:
